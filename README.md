@@ -38,3 +38,7 @@ Ensure that you run the script with appropriate privileges (e.g., Administrator 
 
 ## 🔒 Disclaimer
 This tool is intended for educational and ethical use only. Unauthorized packet sniffing on networks without permission is illegal and unethical.
+
+## 👨‍💻 Author
+### Manik Chand Singh
+Cybersecurity enthusiast | Python beginner | Ethical hacker-in-training
