@@ -27,12 +27,12 @@ A simple Python-based network packet sniffer built using the Scapy library. This
 
 You can install Scapy via pip:
 
-`bash
-pip install scapy`
+<pre>bash
+pip install scapy</pre>
 
 ## 🖥️ How to Run
-`bash
-python My_network_packet_sniffer.py`
+<pre>bash
+python My_network_packet_sniffer.py</pre>
 
 Ensure that you run the script with appropriate privileges (e.g., Administrator on Windows or sudo on Linux/macOS) to allow packet sniffing.
 
